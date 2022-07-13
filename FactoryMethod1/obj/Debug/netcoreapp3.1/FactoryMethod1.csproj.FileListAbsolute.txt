@@ -1,0 +1,14 @@
+D:\Code Beginner\DesignPatternDemo\FactoryMethod1\bin\Debug\netcoreapp3.1\FactoryMethod1.exe
+D:\Code Beginner\DesignPatternDemo\FactoryMethod1\bin\Debug\netcoreapp3.1\FactoryMethod1.deps.json
+D:\Code Beginner\DesignPatternDemo\FactoryMethod1\bin\Debug\netcoreapp3.1\FactoryMethod1.runtimeconfig.json
+D:\Code Beginner\DesignPatternDemo\FactoryMethod1\bin\Debug\netcoreapp3.1\FactoryMethod1.runtimeconfig.dev.json
+D:\Code Beginner\DesignPatternDemo\FactoryMethod1\bin\Debug\netcoreapp3.1\FactoryMethod1.dll
+D:\Code Beginner\DesignPatternDemo\FactoryMethod1\bin\Debug\netcoreapp3.1\FactoryMethod1.pdb
+D:\Code Beginner\DesignPatternDemo\FactoryMethod1\obj\Debug\netcoreapp3.1\FactoryMethod1.csproj.AssemblyReference.cache
+D:\Code Beginner\DesignPatternDemo\FactoryMethod1\obj\Debug\netcoreapp3.1\FactoryMethod1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code Beginner\DesignPatternDemo\FactoryMethod1\obj\Debug\netcoreapp3.1\FactoryMethod1.AssemblyInfoInputs.cache
+D:\Code Beginner\DesignPatternDemo\FactoryMethod1\obj\Debug\netcoreapp3.1\FactoryMethod1.AssemblyInfo.cs
+D:\Code Beginner\DesignPatternDemo\FactoryMethod1\obj\Debug\netcoreapp3.1\FactoryMethod1.csproj.CoreCompileInputs.cache
+D:\Code Beginner\DesignPatternDemo\FactoryMethod1\obj\Debug\netcoreapp3.1\FactoryMethod1.dll
+D:\Code Beginner\DesignPatternDemo\FactoryMethod1\obj\Debug\netcoreapp3.1\FactoryMethod1.pdb
+D:\Code Beginner\DesignPatternDemo\FactoryMethod1\obj\Debug\netcoreapp3.1\FactoryMethod1.genruntimeconfig.cache
