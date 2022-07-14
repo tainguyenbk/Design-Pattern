@@ -6,11 +6,11 @@ using System.Threading.Tasks;
 
 namespace FactoryMethod.Animal
 {
-    class Duck : IAnimal
+    class Duck : TwoLegsAnimal
     {
-        public string getName()
+        public override string getName()
         {
-            return "I am Duck";
+            return "I am Duck"  ;
         }
     }
 }

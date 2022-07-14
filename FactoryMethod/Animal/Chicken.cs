@@ -6,11 +6,11 @@ using System.Threading.Tasks;
 
 namespace FactoryMethod.Animal
 {
-    class Cat : FourLegsAnimal
+    class Chicken : TwoLegsAnimal
     {
         public override string getName()
         {
-            return "I am Cat";
+            return "I am Chicken";
         }
     }
 }

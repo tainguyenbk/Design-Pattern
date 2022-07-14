@@ -1,4 +1,5 @@
 ﻿using System;
+using FactoryMethod.AbstractFactory;
 using FactoryMethod.Animal;
 using FactoryMethod.Factory;
 
@@ -15,11 +16,11 @@ namespace FactoryMethod
 
             if (type == 0)
             {
-                factory = new BasicAnimalFactory();
+                factory = new FourLegsAnimalFactory();
             }
             else
             {
-                factory = new RandomAnimalFactory();
+                factory = new TwoLegsAnimalFactory();
             }
 
             Console.WriteLine(factory.CreateAnimal().getName());

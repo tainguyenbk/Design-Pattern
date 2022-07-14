@@ -6,9 +6,9 @@ using System.Threading.Tasks;
 
 namespace FactoryMethod.Animal
 {
-    class Dog : IAnimal
+    class Dog : FourLegsAnimal
     {
-        public string getName()
+        public override string getName()
         {
             return "I am Dog";
         }
