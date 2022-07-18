@@ -1,0 +1,14 @@
+D:\Code Beginner\DesignPatternDemo\SingleTon\bin\Debug\netcoreapp3.1\SingleTon.exe
+D:\Code Beginner\DesignPatternDemo\SingleTon\bin\Debug\netcoreapp3.1\SingleTon.deps.json
+D:\Code Beginner\DesignPatternDemo\SingleTon\bin\Debug\netcoreapp3.1\SingleTon.runtimeconfig.json
+D:\Code Beginner\DesignPatternDemo\SingleTon\bin\Debug\netcoreapp3.1\SingleTon.runtimeconfig.dev.json
+D:\Code Beginner\DesignPatternDemo\SingleTon\bin\Debug\netcoreapp3.1\SingleTon.dll
+D:\Code Beginner\DesignPatternDemo\SingleTon\bin\Debug\netcoreapp3.1\SingleTon.pdb
+D:\Code Beginner\DesignPatternDemo\SingleTon\obj\Debug\netcoreapp3.1\SingleTon.csproj.AssemblyReference.cache
+D:\Code Beginner\DesignPatternDemo\SingleTon\obj\Debug\netcoreapp3.1\SingleTon.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code Beginner\DesignPatternDemo\SingleTon\obj\Debug\netcoreapp3.1\SingleTon.AssemblyInfoInputs.cache
+D:\Code Beginner\DesignPatternDemo\SingleTon\obj\Debug\netcoreapp3.1\SingleTon.AssemblyInfo.cs
+D:\Code Beginner\DesignPatternDemo\SingleTon\obj\Debug\netcoreapp3.1\SingleTon.csproj.CoreCompileInputs.cache
+D:\Code Beginner\DesignPatternDemo\SingleTon\obj\Debug\netcoreapp3.1\SingleTon.dll
+D:\Code Beginner\DesignPatternDemo\SingleTon\obj\Debug\netcoreapp3.1\SingleTon.pdb
+D:\Code Beginner\DesignPatternDemo\SingleTon\obj\Debug\netcoreapp3.1\SingleTon.genruntimeconfig.cache
